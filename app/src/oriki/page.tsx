@@ -11,7 +11,7 @@ import {
   Paper,
   Container
 } from '@mui/material';
-import { Oriki, OrikiIleYoruba } from '../components/staticData';  // Correct import statement
+import { OrikiIleYoruba } from '../components/staticData';  // Correct import statement
 import Link
 
 from 'next/link';
