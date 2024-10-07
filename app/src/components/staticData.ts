@@ -226,7 +226,7 @@ const OrikiIleYoruba: Oriki[] = [
   {
     id: "6",
     town: "Ado-Ekiti",
-    oriki: `This Panegyric Is Dedicated To Our 'Ekiti' Members
+    oriki: `Omo 'Ekiti'
     Omo owa omo ekun
     Omo oro ninu waya agbele sebi eko, aidamo ro o yangba
     Omo otiriki ju Ida, ki leri ogun hun won lule owa
@@ -362,101 +362,56 @@ const OrikiIleYoruba: Oriki[] = [
         ti a so mo wi olalomi lo lare ki gbogbo wa ti a d’iran ba wa. 
         Olofa Omo la ki Offa`,
         location: "Kwara State, Nigeria"
-      },
-      { 
-        id:"11",
-        town: "Ogbomoso",
-        oriki: `Omo ogbomoso, ogbomojugun
-
+      }, 
+        {
+          id: "11",
+          town: "Ogbomoso",
+          oriki: `Omo Ogbomoso, Ogbomojugun,
                   Omo ogun teludo, omo afogbo ja.
-
-                  Ogbori elemosho niyin
-
+                  Ogbori Elemosho niyin,
                   Omo afogun sowo se.
-
-                  Ogbomoso Omo ajilete
-
-                  Bomo ajilete ba ji
-
+                  Ogbomoso omo ajilete,
+                  B'omo ajilete ba ji,
                   Ibi ise aje won in won lo.
-
                   Ogbomoso lo lojo kan ija.
-
                   Omo ajilete, lo lojo kan èrín-rín.
-
-                  Esu o ja, beni kan o ran.
-
-                  Jeje lomo ajilete, wase aje kiri.
-
+                  Esu o ja, b'eni kan o ran.
+                  Jeje l'omo ajilete, wase aje kiri.
                   Ogbomoso lo ni ka pa ebi monu.
-
                   Ka se bii kayo.
-
-                  Omo ajilete labinu fufu.
-
-                  Ti I bini loran egberun odun.
-
+                  Omo ajilete labinu fufu,
+                  Ti i bini l'oran egberun odun.
                   Ogbomoso n se e, o n bo òsun.
-
-                  Oro Omo ajilete o ran too sa.
-
-                  Oro Omo ajilete o ran tobatala.
-
-                  O dojo too ba tuuba, fomo ajilete.
-
-                  Ko to roju sohun too ba fe se.
-
-                  Ogbomoso ilu akinkanju
-
+                  Oro omo ajilete o ran too sa.
+                  Oro omo ajilete o ran tobatala.
+                  O dojo too ba tuuba, f'omo ajilete.
+                  Ko to roju s'ohun too ba fe se.
+                  Ogbomoso ilu akinkanju,
                   O yo fuu, aya jimo kii.
-
-                  Ojo o tojo, ojo o tojo
-
-                  Ta alaafin Ajagbo onilu o gbodo gbagbe lailai.
-
-                  Ilu soun Ayisa Ogunlola
-
-                  iwin labijo. A refon ja yaya.
-
+                  Ojo o tojo, ojo o tojo,
+                  Ta Alaafin Ajagbo onilu o gbodo gbagbe lailai.
+                  Ilu Soun Ayisa Ogunlola,
+                  Iwin labijo, a refon ja yaya.
                   A meerin wa wolu.
-
-                  Omo jogioro, baba Kumoyede
-
+                  Omo jogioro, baba Kumoyede,
                   Alade ori baba gbagun.
-
-                  Ajagun gbade ladokun Baba kelebe.
-
-                  Baba Laoye, orumo gege gege.
-
-                  Ogbomoso omo ajilete, ajisegiri
-
-                  Onikanga aa ji pon.
-
+                  Ajagun gbade Ladokun baba kelebe.
+                  Baba Laoye, orumo gegegege.
+                  Ogbomoso omo ajilete, ajisegiri,
+                  Onikanga a ji pon.
                   O bomi osuru we ila.
-
-                  Ogbomoso ogbomojugun
-
-                  Won ni ka foko kan oko
-
+                  Ogbomoso Ogbomojugun,
+                  Won ni ka foko kan oko,
                   Nile baba Adeola.
-
                   Ilu taa gbe n jeka,
-
-                  ka to muko yangan.
-
-                  Ilu akoni to gbe ori elemosho wolu.
-
-                  Ogbomoso n ba e je O n rerin ,
-
-                  Advertisement
-
-                  ina a ko e lo,
-
-                  lomo jogioro fi yanju won.
-
-                  Lati yara`,
-                        location: "Oyo State, Nigeria"
-      },
+                  Ka to muko yangan.
+                  Ilu akoni to gbe ori Elemosho wolu.
+                  Ogbomoso n ba e je, o n rerin,
+                  Ina a ko e lo,
+                  L'omo jogioro fi yanju won.
+                  Lati yara.`,
+          location: "Oyo State, Nigeria"
+        },
       {
         id:"12",
         town:"Egba",
