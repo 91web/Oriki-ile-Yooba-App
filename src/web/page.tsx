@@ -1,7 +1,7 @@
 "use client"
 import React, { useEffect, useRef } from 'react';
-import OrikiAppBar from '../src/components/OrikiAppBar';
-import OrikiFooter from '../src/components/OrikiFooter';
+import OrikiAppBar from '../app/components/OrikiAppBar';
+import OrikiFooter from '../app/components/OrikiFooter';
 
 const OrikiHomePage = () => {
   const playerRef = useRef(null); // Create a ref to store the player instance

@@ -91,7 +91,7 @@ export default function OrikiAppBar(props: Props) {
 
 
              {/* Outlined button beside the logo with Link */}
-          <Link href="./src/oriki" passHref>
+          <Link href="./app/oriki" passHref>
             <Button variant="outlined" sx={{ marginLeft: 2 }}>
               Learn Oriki Ile Yoruba
             </Button>
